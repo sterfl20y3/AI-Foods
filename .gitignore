@@ -1,0 +1,5 @@
+.idea
+.venv
+vegetable_classifier_EfficientNetB0.h5
+vegetable_classifier_MobileNetV2.h5
+vegetable_classifier_ResNet50V2.h5
